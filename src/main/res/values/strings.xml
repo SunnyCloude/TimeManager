@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">学习时间管家</string>
+
+    <string name="tomato_time">\t\t\t\t番茄工作法是简单易行的时间管理方法，是由弗朗西斯科·西里洛于1992年创立的一种相对于GTD更微观的时间管理方法。\n\n\t\t\t\t使用番茄工作法，选择一个待完成的任务，设定一个工作时间，专注工作，中途不允许做任何与该任务无关的事，直到番茄时钟响起，然后短暂休息一下，每4个番茄时段多休息一会儿。\n\n\t\t\t\t番茄工作法能极大地提高工作的效率，还会有意想不到的成就感。</string>
+    <string-array name="worktime">
+        <item>10</item>
+        <item>15</item>
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+    </string-array>
+</resources>
